@@ -117,7 +117,7 @@ All numeric results matched within a small floating-point tolerance.
 ### 1. Clone the repository
 
 ```bash
-git clone                                                   YOUR_REPOSITORY_URL
+git clone https://github.com/NeelamGujar/Task_01_Descriptive_Stats
 cd Task_01_Descriptive_Stats
 ```
 
